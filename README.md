@@ -8,7 +8,7 @@ This project tackles a real-world data science problem based on a case study fro
 
 ## The Business Problem
 
-Despite its market leadership, iFood's profit growth is stalling. [cite_start]To improve performance, the marketing department ran a pilot campaign that resulted in a **significant financial loss of -3,046 MU** with a low 15% success rate[cite: 31]. [cite_start]This proved that an untargeted, mass-market approach is both inefficient and unsustainable[cite: 21]. The key challenge is to use the data from this failed campaign to develop a highly profitable, data-driven marketing strategy.
+Despite its market leadership, iFood's profit growth is stalling. To improve performance, the marketing department ran a pilot campaign that resulted in a **significant financial loss of -3,046 MU** with a low 15% success rate. This proved that an untargeted, mass-market approach is both inefficient and unsustainable. The key challenge is to use the data from this failed campaign to develop a highly profitable, data-driven marketing strategy.
 
 ---
 
@@ -39,7 +39,7 @@ The predictive model was a resounding success. By applying the model to the cust
 
 | Metric | Untargeted Campaign (Actual) | Targeted Campaign (Projected with Model) |
 | :--- | :--- | :--- |
-| **Total Profit** | [cite_start]**-3,046 MU** [cite: 31] | **+589 MU** |
+| **Total Profit** | **-3,046 MU** | **+589 MU** |
 
 The model successfully turns the campaign's significant loss into a healthy profit, creating a **total value swing of over 3,600 MU** and proving the immense ROI of a data-driven marketing strategy.
 
